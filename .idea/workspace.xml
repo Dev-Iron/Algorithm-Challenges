@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5737542-8907-41fa-a529-2d205241504d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/lv00/CombiningAngles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lv00/CombiningAngles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/lv00/CombiningAngles.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lv00/CombiningAngles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/lv00/DividingTheNumbers.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lv00/DividingTheNumbers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/lv00/TextOutput.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lv00/TextOutput.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Classification.executor": "Run",
     "Application.CombiningAngles.executor": "Run",
+    "Application.Cpr.executor": "Run",
     "Application.DividingTheNumbers.executor": "Run",
+    "Application.ShortageOfWater.executor": "Run",
     "Application.StringOutput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

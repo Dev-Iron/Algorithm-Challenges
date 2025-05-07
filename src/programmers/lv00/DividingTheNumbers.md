@@ -1,7 +1,7 @@
 # 🧮 문제: 수 나누기 (Dividing the numbers)
 
 - 사이트: 프로그래머스
--ß 레벨: Lv.00
+- 레벨: Lv.00
 - 언어: Java
 
 ---
