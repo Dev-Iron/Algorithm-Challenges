@@ -24,3 +24,4 @@
 ```java
 int sum_angle = (angle1 + angle2) % 360;
 if (sum_angle < 0) sum_angle += 360;
+```

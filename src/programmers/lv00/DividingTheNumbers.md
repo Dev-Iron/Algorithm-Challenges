@@ -28,3 +28,4 @@ while( number > 0){
 answer += number % 100;
 number /= 100;
 }
+```

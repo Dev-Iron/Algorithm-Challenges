@@ -37,4 +37,4 @@
         int answer = func1(seat - num_passenger); // 남은 좌석 = 전체 좌석 - 현재 탑승자 수
         return answer;
     }
-
+```

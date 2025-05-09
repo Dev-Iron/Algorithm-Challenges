@@ -35,3 +35,4 @@
     while(answer.length() < 4) {    // 길이 조건 처리
         answer += "o";  
     }
+```
